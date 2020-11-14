@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433753622626",
+    "firebase_url": "https://appseriesfirebasemomento2.firebaseio.com",
+    "project_id": "appseriesfirebasemomento2",
+    "storage_bucket": "appseriesfirebasemomento2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433753622626:android:c084ede6176976f38d293b",
+        "android_client_info": {
+          "package_name": "com.example.appseriesfirebasemomento2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433753622626-7qbb020064vc299u3mrna8alr015maau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appseriesfirebasemomento2",
+            "certificate_hash": "6bb9cbfbb72bce4298dcf312435cc9de622eb4c0"
+          }
+        },
+        {
+          "client_id": "433753622626-e6b9dgtiigcevp41kbk6csuudso6or2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy050Uq2PkVpUPtIQS4uoUg6HuMkKsO7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433753622626-e6b9dgtiigcevp41kbk6csuudso6or2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
