@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227937011011",
+    "firebase_url": "https://appseriesfirebasemomento-6ce7c.firebaseio.com",
+    "project_id": "appseriesfirebasemomento-6ce7c",
+    "storage_bucket": "appseriesfirebasemomento-6ce7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227937011011:android:ecf96db7f9c5ef8b38dbf6",
+        "android_client_info": {
+          "package_name": "com.example.AppSeriesFirebaseMomento22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227937011011-navu7gjfv44ru5tuoa5sehjgmkrnvu9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJptvFb2cSH3OKk7DpEHzHzHp2ZxPOLJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227937011011-navu7gjfv44ru5tuoa5sehjgmkrnvu9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
